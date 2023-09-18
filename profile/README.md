@@ -1,4 +1,5 @@
-## Hi there 👋
+## Japanese Creative Group
+# SCN Project
 
 <!--
 
