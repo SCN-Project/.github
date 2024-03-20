@@ -1,6 +1,5 @@
-## Japanese Creative Group
-# SCN Project
-
+# Fulxcore Technologies
+## Go Adventure with Tech.
 <!--
 
 **Here are some ideas to get you started:**
